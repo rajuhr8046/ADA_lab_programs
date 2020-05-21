@@ -1,3 +1,5 @@
+//knapsack problem
+
 #include<stdio.h>
 
 #define max 10
@@ -91,3 +93,5 @@ int main()
 	return 0;		
 		
 }
+
+//end of the program

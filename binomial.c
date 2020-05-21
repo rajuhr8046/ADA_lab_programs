@@ -1,3 +1,5 @@
+// finding the binomial co-efficient
+
 #include<stdio.h>
 #define max 10
 
